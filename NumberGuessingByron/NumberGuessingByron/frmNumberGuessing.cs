@@ -21,5 +21,11 @@ namespace NumberGuessingByron
         {
 
         }
+
+        private void MniFile_Click(object sender, EventArgs e)
+        {
+            //close the program
+            this.Close();
+        }
     }
 }
